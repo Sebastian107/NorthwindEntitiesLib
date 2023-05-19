@@ -1,0 +1,10 @@
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.deps.json
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.csproj.AssemblyReference.cache
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.AssemblyInfo.cs
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb

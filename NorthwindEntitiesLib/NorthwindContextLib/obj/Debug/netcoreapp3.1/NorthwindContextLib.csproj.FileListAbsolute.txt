@@ -1,0 +1,13 @@
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindContextLib.deps.json
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindContextLib.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.csproj.AssemblyReference.cache
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.AssemblyInfoInputs.cache
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.AssemblyInfo.cs
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.csproj.CoreCompileInputs.cache
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.csproj.CopyComplete
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.pdb
