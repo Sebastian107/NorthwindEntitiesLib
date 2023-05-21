@@ -413,6 +413,19 @@
         "runtime": {
           "bin/placeholder/NorthwindEntitiesLib.dll": {}
         }
+      },
+      "RazorClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/RazorClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorClassLibrary1.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -1003,11 +1016,17 @@
       "type": "project",
       "path": "../NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
       "msbuildProject": "../NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
+    },
+    "RazorClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../RazorClassLibrary1/RazorClassLibrary1.csproj",
+      "msbuildProject": "../RazorClassLibrary1/RazorClassLibrary1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "NorthwindContextLib >= 1.0.0"
+      "NorthwindContextLib >= 1.0.0",
+      "RazorClassLibrary1 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1039,6 +1058,9 @@
           "projectReferences": {
             "D:\\College\\Documents\\6th Sem\\.NET\\NorthwindEntitiesLib\\NorthwindEntitiesLib\\NorthwindContextLib\\NorthwindContextLib.csproj": {
               "projectPath": "D:\\College\\Documents\\6th Sem\\.NET\\NorthwindEntitiesLib\\NorthwindEntitiesLib\\NorthwindContextLib\\NorthwindContextLib.csproj"
+            },
+            "D:\\College\\Documents\\6th Sem\\.NET\\NorthwindEntitiesLib\\NorthwindEntitiesLib\\RazorClasslibrary1\\RazorClasslibrary1.csproj": {
+              "projectPath": "D:\\College\\Documents\\6th Sem\\.NET\\NorthwindEntitiesLib\\NorthwindEntitiesLib\\RazorClasslibrary1\\RazorClasslibrary1.csproj"
             }
           }
         }

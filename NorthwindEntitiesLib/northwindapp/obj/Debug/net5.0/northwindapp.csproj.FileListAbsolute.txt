@@ -62,3 +62,8 @@ D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\nort
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\northwindapp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\northwindapp\obj\Debug\net5.0\northwindapp.RazorTargetAssemblyInfo.cs
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\northwindapp\obj\Debug\net5.0\northwindapp.Views.pdb
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\northwindapp\bin\Debug\net5.0\RazorClassLibrary1.Views.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\northwindapp\bin\Debug\net5.0\RazorClassLibrary1.Views.pdb
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\northwindapp\bin\Debug\net5.0\RazorClassLibrary1.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\northwindapp\bin\Debug\net5.0\RazorClassLibrary1.pdb
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\northwindapp\obj\Debug\net5.0\northwindapp.MvcApplicationPartsAssemblyInfo.cs

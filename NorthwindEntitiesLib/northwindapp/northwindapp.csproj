@@ -6,5 +6,6 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\NorthwindContextLib\NorthwindContextLib.csproj" />
+		<ProjectReference Include="..\RazorClasslibrary1\RazorClasslibrary1.csproj" />
 	</ItemGroup>
 </Project>
