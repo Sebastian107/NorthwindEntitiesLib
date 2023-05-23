@@ -80,3 +80,7 @@ D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\obj\Debug\net5.0\ref\MVC.dll
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\obj\Debug\net5.0\MVC.pdb
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\obj\Debug\net5.0\MVC.genruntimeconfig.cache
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\bin\Debug\net5.0\NorthwindContextLib.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\bin\Debug\net5.0\NorthwindEntitiesLib.dll
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\bin\Debug\net5.0\NorthwindContextLib.pdb
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\bin\Debug\net5.0\NorthwindEntitiesLib.pdb

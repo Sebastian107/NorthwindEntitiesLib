@@ -535,6 +535,30 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "NorthwindContextLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SQLite": "3.0.0",
+          "NorthwindEntitiesLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NorthwindContextLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthwindContextLib.dll": {}
+        }
+      },
+      "NorthwindEntitiesLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NorthwindEntitiesLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthwindEntitiesLib.dll": {}
+        }
       }
     }
   },
@@ -1442,6 +1466,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "NorthwindContextLib/1.0.0": {
+      "type": "project",
+      "path": "../NorthwindContextLib/NorthwindContextLib.csproj",
+      "msbuildProject": "../NorthwindContextLib/NorthwindContextLib.csproj"
+    },
+    "NorthwindEntitiesLib/1.0.0": {
+      "type": "project",
+      "path": "../NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+      "msbuildProject": "../NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1450,7 +1484,8 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.17",
       "Microsoft.AspNetCore.Identity.UI >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.17",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.17"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.17",
+      "NorthwindContextLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1479,7 +1514,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\College\\Documents\\6th Sem\\.NET\\NorthwindEntitiesLib\\NorthwindEntitiesLib\\NorthwindContextLib\\NorthwindContextLib.csproj": {
+              "projectPath": "D:\\College\\Documents\\6th Sem\\.NET\\NorthwindEntitiesLib\\NorthwindEntitiesLib\\NorthwindContextLib\\NorthwindContextLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
