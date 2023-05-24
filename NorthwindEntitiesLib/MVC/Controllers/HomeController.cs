@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using MVC.Models;
 
-namespace NorthwindMVC.Controllers
+namespace MVC.Controllers
 {
     public class HomeController : Controller
     {

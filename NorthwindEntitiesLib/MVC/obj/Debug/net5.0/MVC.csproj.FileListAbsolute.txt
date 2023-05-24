@@ -84,3 +84,4 @@ D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\bin\Debug\net5.0\NorthwindEntitiesLib.dll
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\bin\Debug\net5.0\NorthwindContextLib.pdb
 D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
+D:\College\Documents\6th Sem\.NET\NorthwindEntitiesLib\NorthwindEntitiesLib\MVC\obj\Debug\net5.0\Razor\Views\Home\ProductDetail.cshtml.g.cs
