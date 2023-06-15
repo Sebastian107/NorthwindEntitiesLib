@@ -627,10 +627,10 @@
       },
       "RazorClassLibrary1/1.0.0": {
         "runtime": {
-          "RazorClassLibrary1.dll": {}
+          "RazorClasslibrary1.dll": {}
         },
         "compile": {
-          "RazorClassLibrary1.dll": {}
+          "RazorClasslibrary1.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
